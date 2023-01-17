@@ -1,0 +1,9 @@
+matplotlib
+missingno
+numpy
+pandas
+scikit_learn
+scipy
+seaborn
+statsmodels
+streamlit
